@@ -21,7 +21,8 @@ something2:otherthing2<br/>
 something3:otherthing3<br/>
 something4:otherthing4<br/>
 
-Requires: python 3 and psycopg2
+#Require: 
+python 3 and psycopg2
 
 Use it like this:
 ./large-file-import.py csv-like-file.txt
