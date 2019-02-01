@@ -21,7 +21,7 @@ something2:otherthing2<br/>
 something3:otherthing3<br/>
 something4:otherthing4<br/>
 
-#Require: 
+# Require: 
 python 3 and psycopg2
 
 Use it like this:
