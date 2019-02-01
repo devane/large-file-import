@@ -24,5 +24,5 @@ something4:otherthing4<br/>
 # Require: 
 python 3 and psycopg2
 
-Use it like this:
+# Use it like this:
 ./large-file-import.py csv-like-file.txt
