@@ -16,10 +16,10 @@ sql = b'INSERT into secrets (somestuff1, somestuff2) VALUES %s'
 
 Format of the input file is:
 
-something1:otherthing1
-something2:otherthing2
-something3:otherthing3
-something4:otherthing4
+something1:otherthing1<br/>
+something2:otherthing2<br/>
+something3:otherthing3<br/>
+something4:otherthing4<br/>
 
 Requires: python 3 and psycopg2
 
